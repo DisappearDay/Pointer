@@ -1,0 +1,4 @@
+﻿  test.c
+F:\Oline_course\B_P\Pointer_1\test.c(17,13): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+F:\Oline_course\B_P\Pointer_1\test.c(123,1): warning C4133: “初始化”: 从“int *”到“char *”的类型不兼容
+  Pointer_1.vcxproj -> F:\Oline_course\B_P\Pointer_1\x64\Debug\Pointer_1.exe
